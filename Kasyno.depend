@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1654531572 source:c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\blackjack.cpp
+	"BlackJack.h"
+	<iostream>
+
+1654531572 c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\blackjack.h
+	"Gracz.h"
+	"Gra.h"
+	"TaliaKart.h"
+
+1654531572 c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\gracz.h
+	<string>
+
+1654531572 c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\gra.h
+	"Gracz.h"
+
+1654531572 c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\taliakart.h
+	<string>
+
+1654531572 source:c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\gra.cpp
+	"Gra.h"
+
+1654531572 source:c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\gracz.cpp
+	"Gracz.h"
+	<iostream>
+
+1654531572 source:c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\jednorekibandyta.cpp
+	"JednorekiBandyta.h"
+	<iostream>
+
+1654531572 c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\jednorekibandyta.h
+	<string>
+	"Gra.h"
+
+1654531572 source:c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Gracz.h"
+	"Gra.h"
+	"BlackJack.h"
+	"JednorekiBandyta.h"
+	"Ruletka.h"
+
+1654531572 c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\ruletka.h
+	"Gra.h"
+
+1654531572 source:c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\ruletka.cpp
+	"Ruletka.h"
+	<iostream>
+
+1654531572 source:c:\users\it\desktop\jpo\projekt kasyno\kasyno (1)\kasyno\taliakart.cpp
+	"TaliaKart.h"
+
